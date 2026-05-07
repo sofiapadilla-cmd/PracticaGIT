@@ -8,19 +8,19 @@
     "net10.0": []
   },
   "packageFolders": {
-    "C:\\Users\\david\\.nuget\\packages\\": {}
+    "C:\\Users\\eeee3\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\david\\PracticaGIT\\PracticaGIT.csproj",
+      "projectUniqueName": "C:\\Users\\eeee3\\PracticaGIT\\PracticaGIT.csproj",
       "projectName": "PracticaGIT",
-      "projectPath": "C:\\Users\\david\\PracticaGIT\\PracticaGIT.csproj",
-      "packagesPath": "C:\\Users\\david\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\david\\PracticaGIT\\obj\\",
+      "projectPath": "C:\\Users\\eeee3\\PracticaGIT\\PracticaGIT.csproj",
+      "packagesPath": "C:\\Users\\eeee3\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\eeee3\\PracticaGIT\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\david\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        "C:\\Users\\eeee3\\AppData\\Roaming\\NuGet\\NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net10.0"
