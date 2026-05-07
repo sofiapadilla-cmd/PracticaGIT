@@ -1,6 +1,6 @@
 
 using System;
-class pedido
+class Pedido
 {
     public void Mostrapedido()
     {
