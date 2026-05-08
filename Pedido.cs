@@ -4,7 +4,7 @@ class Pedido
 {
     public void Mostrapedido()
     {
-        Console.WriteLine("prodidcto: iphone 14 pro max");
-        Console.WriteLine("total: $1200");
+        Console.WriteLine("Producto: iphone 14 pro max");
+        Console.WriteLine("Total: $1200");
     }
 }
